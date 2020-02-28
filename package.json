@@ -1,0 +1,19 @@
+{
+  "name": "calculus",
+  "version": "1.0.0",
+  "description": "A simple Calculus module for Node.js.",
+  "main": "Main.js",
+  "scripts": {
+    "test": "node Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koreanmelon/calculus.git"
+  },
+  "author": "koreanmelon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koreanmelon/calculus/issues"
+  },
+  "homepage": "https://github.com/koreanmelon/calculus#readme"
+}
